@@ -22,7 +22,7 @@ python main.py
 - ✅ Tkinter for all GUI components
 - ✅ NumPy for score calculations and statistics
 - ✅ pandas for data management and analysis
-- ✅ Matplotlib for performance visualizations
+- ✅ Matplotlib for performance visualizations using graphics 
 - ✅ Built-in file handling (CSV/JSON)
 
 #### 2. **Question Bank** ✓
